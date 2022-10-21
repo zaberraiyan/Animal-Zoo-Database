@@ -1,2 +1,3 @@
 # Animal-Zoo-Database
-Linked list struct database that uses functions to update
+Program Design USF
+Linked list struct database that uses Qsorting
